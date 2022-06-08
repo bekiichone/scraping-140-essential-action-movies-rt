@@ -4,3 +4,5 @@ Today I have scraped 140 essential action movies from Rotten Tomatoes as homewor
 
 **Follow Notebook for more details**
 
+# Exported Files
+In case you want to play with data, feel free to download .csv and .xlsx files scraped from respective html page.
