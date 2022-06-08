@@ -2,5 +2,5 @@
 Today I have scraped 140 essential action movies from Rotten Tomatoes as homework task from Web Scraping course on Udemy.  I have also conducted small EDA and extracted 
 **Top directors** with respective movies to watch. 
 
-# Follow Notebook for more details
+**Follow Notebook for more details**
 
